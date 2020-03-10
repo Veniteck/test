@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,mEAEA,CACE,OAAO,CAAC,GAAG,CAGb,sCAAsC,CACpC,OAAO,CAAE,sCAAsC,CAC/C,UAAU,CAAC,IAAI,CACf,OAAO,CAAC,KAAK,CACb,KAAK,CAAC,OAAO,CACb,OAAO,CAAE,EAAE,CACX,SAAS,CAAC,IAAI,CACd,WAAW,CAAC,GAAG",
+"sources": ["../../../../../../../../../../../../../../Volumes/G-DRIVE/Sites/demos.xplodedthemes.dev/app/public/wp-content/plugins/xt-woo-floating-cart/xt-framework/includes/plugin-settings/assets/scss/plugin-settings-premium.scss"],
+"names": [],
+"file": "plugin-settings-premium.css"
+}

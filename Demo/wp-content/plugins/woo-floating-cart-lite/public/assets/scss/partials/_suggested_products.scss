@@ -1,0 +1,150 @@
+/** Related Products **/
+.xt_woofc-sp{
+
+	border-top: 1px solid #eaeaea;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top:-1px;
+	opacity: 0;
+	transition: opacity 0.3s;
+
+	&.xt_woofc-sp-empty{
+		display:none;
+	}
+
+	.xt_woofc-sp-title{
+		display: block;
+		margin-bottom: 20px;
+		text-align: center;
+		font-size: 16px;
+		font-weight: 600;
+		color: $color-1;
+		font-family: sans-serif;
+	}
+
+	li.xt_woofc-sp-item{
+		text-align: center;
+	}
+
+	.xt_woofc-sp-item-wrap {
+		display: inline-flex;
+		border: 1px solid #eaeaea;
+		border-radius:3px;
+		padding: 10px;
+		width: 70%;
+	}
+
+	.xt_woofc-sp-left-area {
+		width: 90px;
+		display: inline-block;
+		padding-right: 10px;
+	}
+
+	.xt_woofc-sp-right-area{
+		display: inline-block;
+		padding-left: 10px;
+		text-align: left;
+		> * {
+			font-size: 14px;
+			display: table;
+		}
+
+		span.price{
+			display: table;
+			margin-bottom: 10px;
+			font-size: 14px;
+		}
+
+		a.button{
+			font-size: 14px;
+			float: left;
+			display:none;
+			&.add_to_cart_button{
+				display:inline-block;
+			}
+		}
+	}
+
+	.xt_woofc-sp-product-title{
+		overflow: hidden;
+		display: -webkit-box;
+		-webkit-line-clamp: 1;
+		-webkit-box-orient: vertical;
+		font-weight: 600;
+		margin-bottom:5px;
+		line-height: 1.3;
+
+		a {
+			color: $color-1;
+
+			.xt_woofc-no-touchevents &:hover,
+			.xt_woofc-touchevents &:focus {
+				text-decoration: none;
+				color: $color-2;
+			}
+		}
+	}
+
+	.lSSlideOuter .lSPager.lSpg{
+		margin-top: 20px!important;
+	}
+
+	.lSAction {
+		font-size:20px;
+		> a{
+			background-image: none;
+			transform: translateY(-50%);
+			margin-top: 0;
+			height: inherit;
+			width: inherit;
+			transition: color 0.3s;
+		}
+		> .lSNext{
+			right: 4%;
+			.xt_woofc-sp-arrow-icon:before {
+				transform: rotate(180deg);
+			}
+		}
+		> .lSPrev{
+			left: 4%;
+		}
+	}
+
+	@media (max-width: 580px) {
+		.xt_woofc-sp-item-wrap{
+			display:block;
+			margin:0 auto;
+			text-align:center;
+			width: 60%;
+		}
+		.xt_woofc-product-image{
+			float:none!important;
+			margin-bottom:10px;
+		}
+		.xt_woofc-sp-left-area,
+		.xt_woofc-sp-right-area{
+			padding-left:0;
+			padding-right:0;
+			text-align:center;
+			display: block;
+			width: 100%;
+		}
+
+		.xt_woofc-sp-right-area{
+
+			>*{
+				display:block;
+			}
+
+			.xt_woofc-sp-product-title,
+			span.price{
+				display:block;
+			}
+
+			a.add_to_cart_button{
+				float:none!important;
+			}
+		}
+
+	}
+}

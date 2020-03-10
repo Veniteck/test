@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,SAAS,CACP,MAAM,CAAC,KAAK,CAGd,iBAAiB,CACf,MAAM,CAAC,KAAK,CAGd,yEAAyE,CACvE,OAAO,CAAC,CAAC,CAEX,wCAAwC,CACtC,OAAO,CAAC,IAAI,CAEd,yBAAyB,CACvB,OAAO,CAAC,IAAI,CAGd,+HAC+D,CAC7D,OAAO,CAAC,GAAG,CAGb,2CAA6C,CAC3C,OAAO,CAAC,YAAW,CAGrB,sCAAuC,CACrC,OAAO,CAAE,sCAAsC,CAC/C,UAAU,CAAC,IAAI,CACf,OAAO,CAAC,KAAK,CACb,KAAK,CAAC,OAAO,CACb,OAAO,CAAE,EAAE,CACX,SAAS,CAAC,IAAI,CACd,WAAW,CAAC,GAAG",
+"sources": ["../../../../../../../../../../../../../../Volumes/G-DRIVE/Sites/demos.xplodedthemes.dev/app/public/wp-content/plugins/xt-woo-floating-cart/xt-framework/includes/customizer/assets/scss/customizer-premium.scss"],
+"names": [],
+"file": "customizer-premium.css"
+}
