@@ -1,0 +1,119 @@
+div.vg-calaco-category-treeview {
+	display: block;
+}
+div.vg-calaco-category-treeview .treeview,
+div.vg-calaco-category-treeview .treeview ul { 
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+div.vg-calaco-category-treeview .treeview ul {
+	margin-top: 4px;
+}
+div.vg-calaco-category-treeview .treeview .hitarea {
+	background: url(../images/treeview-default.gif) -64px -25px no-repeat;
+	height: 16px;
+	width: 16px;
+	margin-left: -16px;
+	float: left;
+	cursor: pointer;
+}
+/* fix for IE6 */
+* html .hitarea {
+	display: inline;
+	float:none;
+}
+div.vg-calaco-category-treeview .treeview li { 
+	margin: 0;
+	padding: 3px 0pt 3px 16px;
+}
+div.vg-calaco-category-treeview .treeview a.selected {
+	text-decoration: underline;
+}
+div.vg-calaco-category-treeview .treecontrol { 
+	margin: 1em 0;
+	display: none; 
+}
+div.vg-calaco-category-treeview .treeview .hover { 
+	color: red;
+	cursor: pointer;
+}
+div.vg-calaco-category-treeview .treeview li { 
+	background: url(../images/treeview-default-line.gif) 0 0 no-repeat;
+}
+div.vg-calaco-category-treeview .treeview li.collapsable, 
+div.vg-calaco-category-treeview .treeview li.expandable {
+	background-position: 0 -176px;
+}
+
+div.vg-calaco-category-treeview .treeview .expandable-hitarea {
+	background-position: -80px -3px;
+}
+div.vg-calaco-category-treeview .treeview li.last {
+	background-position: 0 -1766px 
+}
+div.vg-calaco-category-treeview .treeview li.lastCollapsable, 
+div.vg-calaco-category-treeview .treeview li.lastExpandable { 
+	background-image: url(../images/treeview-default.gif);
+}  
+div.vg-calaco-category-treeview .treeview li.lastCollapsable {
+	background-position: 0 -111px;
+}
+div.vg-calaco-category-treeview .treeview li.lastExpandable {
+	background-position: -32px -67px;
+}
+div.vg-calaco-category-treeview .treeview div.lastCollapsable-hitarea, 
+div.vg-calaco-category-treeview .treeview div.lastExpandable-hitarea { 
+	background-position: 0;
+}
+div.vg-calaco-category-treeview .treeview-red li { 
+	background-image: url(../images/treeview-red-line.gif);
+}
+div.vg-calaco-category-treeview .treeview-red .hitarea, 
+div.vg-calaco-category-treeview .treeview-red li.lastCollapsable, 
+div.vg-calaco-category-treeview .treeview-red li.lastExpandable { 
+	background-image: url(../images/treeview-red.gif);
+} 
+div.vg-calaco-category-treeview .treeview-black li { 
+	background-image: url(../images/treeview-black-line.gif);
+}
+div.vg-calaco-category-treeview .treeview-black .hitarea, 
+div.vg-calaco-category-treeview .treeview-black li.lastCollapsable, 
+div.vg-calaco-category-treeview .treeview-black li.lastExpandable { 
+	background-image: url(../images/treeview-black.gif);
+}
+div.vg-calaco-category-treeview .treeview-gray li { 
+	background-image: url(../images/treeview-gray-line.gif);
+}
+div.vg-calaco-category-treeview .treeview-gray .hitarea, 
+div.vg-calaco-category-treeview .treeview-gray li.lastCollapsable, 
+div.vg-calaco-category-treeview .treeview-gray li.lastExpandable {
+	background-image: url(../images/treeview-gray.gif);
+} 
+div.vg-calaco-category-treeview .treeview-famfamfam li { 
+	background-image: url(../images/treeview-famfamfam-line.gif);
+}
+div.vg-calaco-category-treeview .treeview-famfamfam .hitarea, 
+div.vg-calaco-category-treeview .treeview-famfamfam li.lastCollapsable, 
+div.vg-calaco-category-treeview .treeview-famfamfam li.lastExpandable { 
+	background-image: url(../images/treeview-famfamfam.gif);
+} 
+div.vg-calaco-category-treeview .filetree li {
+	padding: 3px 0 2px 16px;
+}
+div.vg-calaco-category-treeview .filetree span.folder, 
+div.vg-calaco-category-treeview .filetree span.file { 
+	padding: 1px 0 1px 16px; display: block;
+}
+div.vg-calaco-category-treeview .filetree span.folder { 
+	background: url(../images/folder.gif) 0 0 no-repeat;
+}
+div.vg-calaco-category-treeview .filetree li.expandable span.folder {
+	background: url(../images/folder-closed.gif) 0 0 no-repeat;
+}
+div.vg-calaco-category-treeview .filetree span.file {
+	background: url(../images/file.gif) 0 0 no-repeat;
+}
+div.vg-calaco-category-treeview .active > a {
+	text-decoration: underline;
+}

@@ -1,0 +1,2807 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VG Calaco\n"
+"POT-Creation-Date: 2018-03-22 13:58+0700\n"
+"PO-Revision-Date: 2015-11-27 15:08+0700\n"
+"Last-Translator: \n"
+"Language-Team: Vinagecko.com <admin@vinagecko.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: admin/options-init.php:32
+msgid "Copyright &copy; 2016 "
+msgstr ""
+
+#: admin/options-init.php:32
+msgid ". All Rights Reserved."
+msgstr ""
+
+#: admin/options-init.php:111
+msgid "Theme Information 1"
+msgstr ""
+
+#: admin/options-init.php:112 admin/options-init.php:117
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/options-init.php:116
+msgid "Theme Information 2"
+msgstr ""
+
+#: admin/options-init.php:123
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/options-init.php:140
+msgid "General"
+msgstr ""
+
+#: admin/options-init.php:144
+msgid "Demo Mode"
+msgstr ""
+
+#: admin/options-init.php:145
+msgid "<em>Enabled / Disabled Demo Mode.<br>(for Developer only).</em>"
+msgstr ""
+
+#: admin/options-init.php:146
+msgid ""
+"<em>When enabled, some config from Theme Options will not implement.</em>"
+msgstr ""
+
+#: admin/options-init.php:148 admin/options-init.php:255
+#: admin/options-init.php:275 admin/options-init.php:358
+#: admin/options-init.php:417 admin/options-init.php:447
+#: admin/options-init.php:527 admin/options-init.php:587
+#: admin/options-init.php:711 admin/options-init.php:721
+#: admin/options-init.php:832 admin/options-init.php:868
+#: admin/options-init.php:928 admin/options-init.php:999
+#: admin/options-init.php:1354 admin/options-init.php:1371
+#: admin/options-init.php:1380 admin/options-init.php:1389
+#: admin/options-init.php:1398 admin/options-init.php:1407
+#: includes/widgets/category-treeview.php:153
+#: includes/widgets/category-treeview.php:160
+#: includes/widgets/category-treeview.php:175
+#: includes/widgets/category-treeview.php:183
+#: includes/widgets/category-treeview.php:317
+#: includes/widgets/category-treeview.php:329
+#: includes/widgets/category-treeview.php:354
+#: includes/widgets/category-treeview.php:366
+msgid "Enabled"
+msgstr ""
+
+#: admin/options-init.php:149 admin/options-init.php:256
+#: admin/options-init.php:276 admin/options-init.php:359
+#: admin/options-init.php:418 admin/options-init.php:448
+#: admin/options-init.php:528 admin/options-init.php:588
+#: admin/options-init.php:712 admin/options-init.php:722
+#: admin/options-init.php:833 admin/options-init.php:869
+#: admin/options-init.php:929 admin/options-init.php:1000
+#: admin/options-init.php:1355 admin/options-init.php:1372
+#: admin/options-init.php:1381 admin/options-init.php:1390
+#: admin/options-init.php:1399 admin/options-init.php:1408
+#: includes/widgets/category-treeview.php:152
+#: includes/widgets/category-treeview.php:159
+#: includes/widgets/category-treeview.php:174
+#: includes/widgets/category-treeview.php:182
+#: includes/widgets/category-treeview.php:316
+#: includes/widgets/category-treeview.php:328
+#: includes/widgets/category-treeview.php:353
+#: includes/widgets/category-treeview.php:365
+msgid "Disabled"
+msgstr ""
+
+#: admin/options-init.php:157
+msgid "Demo Setting"
+msgstr ""
+
+#: admin/options-init.php:158
+msgid "This field only use for Developer."
+msgstr ""
+
+#: admin/options-init.php:169
+msgid "Default Layout"
+msgstr ""
+
+#: admin/options-init.php:170
+msgid "<em>Select the default layout for your website.</em>"
+msgstr ""
+
+#: admin/options-init.php:173
+msgid "Layout 1"
+msgstr ""
+
+#: admin/options-init.php:177
+msgid "Layout 2"
+msgstr ""
+
+#: admin/options-init.php:181
+msgid "Layout 3"
+msgstr ""
+
+#: admin/options-init.php:185
+msgid "Layout 4"
+msgstr ""
+
+#: admin/options-init.php:197
+msgid "Default Preset Color"
+msgstr ""
+
+#: admin/options-init.php:198
+msgid "<em>Select the default preset color for your website.</em>"
+msgstr ""
+
+#: admin/options-init.php:201
+msgid "Preset Color 1"
+msgstr ""
+
+#: admin/options-init.php:205
+msgid "Preset Color 2"
+msgstr ""
+
+#: admin/options-init.php:209
+msgid "Preset Color 3"
+msgstr ""
+
+#: admin/options-init.php:220
+msgid "Website Width"
+msgstr ""
+
+#: admin/options-init.php:221
+msgid "<em>Set up the width of the Website.</em>"
+msgstr ""
+
+#: admin/options-init.php:232
+msgid "Show Loading Page"
+msgstr ""
+
+#: admin/options-init.php:241
+msgid "Header"
+msgstr ""
+
+#: admin/options-init.php:247 admin/options-init.php:252
+msgid "Top Bar"
+msgstr ""
+
+#: admin/options-init.php:253
+msgid "<em>Enable / Disable the Top Bar.</em>"
+msgstr ""
+
+#: admin/options-init.php:265 admin/options-init.php:326
+#: admin/options-init.php:426 admin/options-init.php:507
+#: admin/options-init.php:577 admin/options-init.php:918
+#: admin/options-init.php:989
+msgid "Demo Mode is Enabled!"
+msgstr ""
+
+#: admin/options-init.php:267
+msgid "Demo Mode is Enabled, please disable it to customize Top Bar."
+msgstr ""
+
+#: admin/options-init.php:272 admin/options-init.php:355
+#: admin/options-init.php:444 admin/options-init.php:524
+#: admin/options-init.php:584
+msgid "Customize CSS"
+msgstr ""
+
+#: admin/options-init.php:273
+msgid ""
+"<em>You can change background, font-size, font-color of Top Bar if enabled "
+"this option.</em>"
+msgstr ""
+
+#: admin/options-init.php:285
+msgid "Top Bar Background"
+msgstr ""
+
+#: admin/options-init.php:286
+msgid "<em>Top Bar Background with image, color, etc.</em>"
+msgstr ""
+
+#: admin/options-init.php:296
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: admin/options-init.php:297
+msgid "<em>Specify the Top Bar Link Color.</em>"
+msgstr ""
+
+#: admin/options-init.php:306
+msgid "Top Bar Link Hover Color"
+msgstr ""
+
+#: admin/options-init.php:307
+msgid "<em>Specify the Top Bar Link Hover Color.</em>"
+msgstr ""
+
+#: admin/options-init.php:319
+msgid "Middle Bar"
+msgstr ""
+
+#: admin/options-init.php:328
+msgid "Demo Mode is Enabled, please disable it to customize Middle Bar."
+msgstr ""
+
+#: admin/options-init.php:333
+msgid "Your Logo"
+msgstr ""
+
+#: admin/options-init.php:334
+msgid "<em>Upload your logo image.</em>"
+msgstr ""
+
+#: admin/options-init.php:344
+msgid "Alternative Logo"
+msgstr ""
+
+#: admin/options-init.php:345
+msgid ""
+"<em>The Alternative Logo is used on the <strong>Mobile Devices</strong>.</em>"
+msgstr ""
+
+#: admin/options-init.php:356
+msgid ""
+"<em>Allow you change background, font-size, font-color of Middle Bar. If "
+"Disabled, the theme will use default values from preset color.</em>"
+msgstr ""
+
+#: admin/options-init.php:366
+msgid "Logo Container Min Width"
+msgstr ""
+
+#: admin/options-init.php:367
+msgid "<em>Drag the slider to set the logo container min width.</em>"
+msgstr ""
+
+#: admin/options-init.php:379
+msgid "Logo Height"
+msgstr ""
+
+#: admin/options-init.php:380
+msgid ""
+"<em>Drag the slider to set the logo height <br/>(ignored if there's no "
+"uploaded logo).</em>"
+msgstr ""
+
+#: admin/options-init.php:395
+msgid "Middle Bar Background"
+msgstr ""
+
+#: admin/options-init.php:396
+msgid "<em>The Middle Bar background with image, color, etc.</em>"
+msgstr ""
+
+#: admin/options-init.php:409
+msgid "Menu Bar"
+msgstr ""
+
+#: admin/options-init.php:414
+msgid "Sticky Menu"
+msgstr ""
+
+#: admin/options-init.php:415
+msgid "<em>Enable / Disable the Sticky Menu Bar.</em>"
+msgstr ""
+
+#: admin/options-init.php:428
+msgid "Demo Mode is Enabled, please disable it to customize Menu Bar."
+msgstr ""
+
+#: admin/options-init.php:433
+msgid "Sticky Logo"
+msgstr ""
+
+#: admin/options-init.php:434
+msgid ""
+"<em>The Alternative Logo is used on the <strong>Sticky Menu</strong>.</em>"
+msgstr ""
+
+#: admin/options-init.php:445
+msgid ""
+"<em>Allow you change background, font-size, font-color of Menu Bar. If "
+"Disabled, the theme will use default values from preset color.</em>"
+msgstr ""
+
+#: admin/options-init.php:456
+msgid "Menu Bar Background"
+msgstr ""
+
+#: admin/options-init.php:457
+msgid "<em>The Menu Bar background with image, color, etc.</em>"
+msgstr ""
+
+#: admin/options-init.php:468
+msgid "Menu Bar Text"
+msgstr ""
+
+#: admin/options-init.php:474
+msgid "Menu Bar Text with color, font size, font weight..."
+msgstr ""
+
+#: admin/options-init.php:485
+msgid "Menu Bar Text Hover Color"
+msgstr ""
+
+#: admin/options-init.php:486
+msgid "<em>Specify the Menu Bar Text Hover Color.</em>"
+msgstr ""
+
+#: admin/options-init.php:501
+msgid "Footer"
+msgstr ""
+
+#: admin/options-init.php:509
+msgid "Demo Mode is Enabled, please disable it to customize Footer."
+msgstr ""
+
+#: admin/options-init.php:513
+msgid "Logo Footer"
+msgstr ""
+
+#: admin/options-init.php:514
+msgid "<em>The Alternative Logo is used on the <strong> Footer</strong>.</em>"
+msgstr ""
+
+#: admin/options-init.php:525
+msgid ""
+"<em>Allow you change background, font-size, font-color of Footer. If "
+"Disabled, the theme will use default values from preset color.</em>"
+msgstr ""
+
+#: admin/options-init.php:546
+msgid "Footer Text"
+msgstr ""
+
+#: admin/options-init.php:547
+msgid "<em>Specify the Footer Text Color.</em>"
+msgstr ""
+
+#: admin/options-init.php:556
+msgid "Footer Links(Hover)"
+msgstr ""
+
+#: admin/options-init.php:557
+msgid "<em>Specify the Footer Links Color.</em>"
+msgstr ""
+
+#: admin/options-init.php:570
+msgid "Bottom Footer"
+msgstr ""
+
+#: admin/options-init.php:579
+msgid "Demo Mode is Enabled, please disable it to customize Bottom Footer."
+msgstr ""
+
+#: admin/options-init.php:585
+msgid ""
+"<em>Allow you change background, font-size, font-color of Bottom Footer. If "
+"Disabled, the theme will use default values from preset color.</em>"
+msgstr ""
+
+#: admin/options-init.php:617
+msgid "Bottom Footer Text"
+msgstr ""
+
+#: admin/options-init.php:618
+msgid "<em>Specify the Bottom Footer Text Color.</em>"
+msgstr ""
+
+#: admin/options-init.php:626
+msgid "Bottom Footer Links"
+msgstr ""
+
+#: admin/options-init.php:627
+msgid "<em>Specify the Bottom Footer Links Color.</em>"
+msgstr ""
+
+#: admin/options-init.php:635
+msgid "Bottom Footer Links(Hover)"
+msgstr ""
+
+#: admin/options-init.php:636
+msgid "<em>Specify the Bottom Footer Links Color Hover.</em>"
+msgstr ""
+
+#: admin/options-init.php:648
+msgid "Blog"
+msgstr ""
+
+#: admin/options-init.php:654 admin/options-init.php:731
+msgid "Default Sidebar"
+msgstr ""
+
+#: admin/options-init.php:655 admin/options-init.php:732
+msgid "<em>Select the default blog sidebar for your website.</em>"
+msgstr ""
+
+#: admin/options-init.php:658 admin/options-init.php:735
+msgid "Lef Sidebar"
+msgstr ""
+
+#: admin/options-init.php:662 admin/options-init.php:739
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/options-init.php:666 admin/options-init.php:743
+msgid "Without Sidebar"
+msgstr ""
+
+#: admin/options-init.php:673
+msgid "Number of Post per Column"
+msgstr ""
+
+#: admin/options-init.php:674
+msgid ""
+"<em>Drag the slider to set the number of post per column <br />to be listed "
+"on the category post.</em>"
+msgstr ""
+
+#: admin/options-init.php:688
+msgid "Shop"
+msgstr ""
+
+#: admin/options-init.php:693
+msgid "Select default product hover effect."
+msgstr ""
+
+#: admin/options-init.php:696
+msgid "Hover Effect"
+msgstr ""
+
+#: admin/options-init.php:707 includes/woocommerce/quick-view.php:50
+#: woocommerce/content-product.php:143 woocommerce/content-product.php:188
+#: woocommerce/product-carousel/theme-timer.php:212
+#: woocommerce/product-carousel/theme-vertical.php:162
+#: woocommerce/product-carousel/theme.php:185
+msgid "Quick View"
+msgstr ""
+
+#: admin/options-init.php:708
+msgid "<em>Enable / Disable the quick view modal.</em>"
+msgstr ""
+
+#: admin/options-init.php:709
+msgid ""
+"<em>When enabled, the feature Turns On the quick view functionality.</em>"
+msgstr ""
+
+#: admin/options-init.php:718
+msgid "Second Image on Catalog Page(Hover)"
+msgstr ""
+
+#: admin/options-init.php:719
+msgid "<em>Change to display second image when hover on product image.</em>"
+msgstr ""
+
+#: admin/options-init.php:753
+msgid "Category View Mode"
+msgstr ""
+
+#: admin/options-init.php:754
+msgid "Display products in Grid or List layout."
+msgstr ""
+
+#: admin/options-init.php:757
+msgid "Grid View"
+msgstr ""
+
+#: admin/options-init.php:761
+msgid "List View"
+msgstr ""
+
+#: admin/options-init.php:769
+msgid "Number of Products per Column"
+msgstr ""
+
+#: admin/options-init.php:770
+msgid ""
+"<em>Drag the slider to set the number of products per column <br />to be "
+"listed on the shop page and catalog pages.</em>"
+msgstr ""
+
+#: admin/options-init.php:780
+msgid "Number of Products per Page"
+msgstr ""
+
+#: admin/options-init.php:781
+msgid ""
+"<em>Drag the slider to set the number of products per page <br />to be "
+"listed on the shop page and catalog pages.</em>"
+msgstr ""
+
+#: admin/options-init.php:792
+msgid "Featured Label"
+msgstr ""
+
+#: admin/options-init.php:793
+msgid "<em>Out of Stock label text.</em>"
+msgstr ""
+
+#: admin/options-init.php:800
+msgid "Sale Label"
+msgstr ""
+
+#: admin/options-init.php:801
+msgid "<em>Sale label text.</em>"
+msgstr ""
+
+#: admin/options-init.php:813
+msgid "Product Page"
+msgstr ""
+
+#: admin/options-init.php:817
+msgid "Column of Thumbnail Images"
+msgstr ""
+
+#: admin/options-init.php:818
+msgid ""
+"<em>Drag the slider to set the number of Thumbnail Images will visible in "
+"carousel.</em>"
+msgstr ""
+
+#: admin/options-init.php:829 woocommerce/single-product/related.php:52
+msgid "Related Products"
+msgstr ""
+
+#: admin/options-init.php:830
+msgid "<em>Enable / Disable Related Products.<em>"
+msgstr ""
+
+#: admin/options-init.php:839
+msgid "Total Related Products"
+msgstr ""
+
+#: admin/options-init.php:840
+msgid ""
+"<em>Drag the slider to set the Total Related Products will display in "
+"carousel.</em>"
+msgstr ""
+
+#: admin/options-init.php:852
+msgid "Column of Related Products"
+msgstr ""
+
+#: admin/options-init.php:853
+msgid ""
+"<em>Drag the slider to set the number of Product will visible in carousel.</"
+"em>"
+msgstr ""
+
+#: admin/options-init.php:865
+msgid "Sharing Options"
+msgstr ""
+
+#: admin/options-init.php:866
+msgid "<em>Enable / Disable Sharing Options.<em>"
+msgstr ""
+
+#: admin/options-init.php:880
+msgid "Brand Logos"
+msgstr ""
+
+#: admin/options-init.php:886
+msgid "Brand Logos Manager"
+msgstr ""
+
+#: admin/options-init.php:888
+msgid "This is a title"
+msgstr ""
+
+#: admin/options-init.php:889
+msgid "Description Here"
+msgstr ""
+
+#: admin/options-init.php:890
+msgid "Give us a link!"
+msgstr ""
+
+#: admin/options-init.php:899
+msgid "Styling"
+msgstr ""
+
+#: admin/options-init.php:903
+msgid "Images Banner"
+msgstr ""
+
+#: admin/options-init.php:904
+msgid "Hover Effect Images Banner"
+msgstr ""
+
+#: admin/options-init.php:920
+msgid ""
+"Demo Mode is Enabled, please disable it to customize the Styling of the "
+"theme."
+msgstr ""
+
+#: admin/options-init.php:925
+msgid "Customize Styling"
+msgstr ""
+
+#: admin/options-init.php:926
+msgid ""
+"<em>Allow you customize the Styling of the theme. If Disabled, the theme "
+"will use default values from preset color.</em>"
+msgstr ""
+
+#: admin/options-init.php:936
+msgid "Body Texts Color"
+msgstr ""
+
+#: admin/options-init.php:937
+msgid "<em>Body Texts Color of the site.</em>"
+msgstr ""
+
+#: admin/options-init.php:946
+msgid "Headings Color"
+msgstr ""
+
+#: admin/options-init.php:947
+msgid "<em>Headings Color of the site.</em>"
+msgstr ""
+
+#: admin/options-init.php:956
+msgid "Main Theme Color"
+msgstr ""
+
+#: admin/options-init.php:957
+msgid "<em>The main color of the site.</em>"
+msgstr ""
+
+#: admin/options-init.php:983
+msgid "Typography"
+msgstr ""
+
+#: admin/options-init.php:991
+msgid ""
+"Demo Mode is Enabled, please disable it to customize Typography of the theme."
+msgstr ""
+
+#: admin/options-init.php:996
+msgid "Customize Typography"
+msgstr ""
+
+#: admin/options-init.php:997
+msgid ""
+"<em>Allow you customize Typography of the theme. If Disabled, the theme will "
+"use default values from preset color.</em>"
+msgstr ""
+
+#: admin/options-init.php:1010
+msgid "<h3 style=\"margin: 0;\"><i class=\"fa fa-font\"></i> Font Sources</h3>"
+msgstr ""
+
+#: admin/options-init.php:1015
+msgid "Font Source"
+msgstr ""
+
+#: admin/options-init.php:1016
+msgid "<em>Choose the Font Source</em>"
+msgstr ""
+
+#: admin/options-init.php:1032
+msgid "Google Code"
+msgstr ""
+
+#: admin/options-init.php:1033
+msgid "<em>Paste the provided Google Code</em>"
+msgstr ""
+
+#: admin/options-init.php:1045
+msgid "Typekit Kit ID"
+msgstr ""
+
+#: admin/options-init.php:1046
+msgid "<em>Paste the provided Typekit Kit ID.</em>"
+msgstr ""
+
+#: admin/options-init.php:1058
+msgid "<h3 style=\"margin: 0;\"><i class=\"fa fa-font\"></i> Main Font</h3>"
+msgstr ""
+
+#: admin/options-init.php:1064 admin/options-init.php:1124
+msgid "Font Face"
+msgstr ""
+
+#: admin/options-init.php:1065
+msgid "<em>Pick the Main Font for your site.</em>"
+msgstr ""
+
+#: admin/options-init.php:1087 admin/options-init.php:1148
+msgid "Google Font Face"
+msgstr ""
+
+#: admin/options-init.php:1088
+msgid "<em>Enter your Google Font Name for the theme's Main Typography</em>"
+msgstr ""
+
+#: admin/options-init.php:1089 admin/options-init.php:1150
+msgid "e.g.: open sans"
+msgstr ""
+
+#: admin/options-init.php:1101 admin/options-init.php:1162
+msgid "Typekit Font Face"
+msgstr ""
+
+#: admin/options-init.php:1102
+msgid "<em>Enter your Typekit Font Name for the theme's Main Typography</em>"
+msgstr ""
+
+#: admin/options-init.php:1103 admin/options-init.php:1164
+msgid "e.g.: futura-pt"
+msgstr ""
+
+#: admin/options-init.php:1118
+msgid ""
+"<h3 style=\"margin: 0;\"><i class=\"fa fa-font\"></i> Secondary Font</h3>"
+msgstr ""
+
+#: admin/options-init.php:1125
+msgid "<em>Pick the Secondary Font for your site.</em>"
+msgstr ""
+
+#: admin/options-init.php:1149
+msgid ""
+"<em>Enter your Google Font Name for the theme's Secondary Typography</em>"
+msgstr ""
+
+#: admin/options-init.php:1163
+msgid ""
+"<em>Enter your Typekit Font Name for the theme's Secondary Typography</em>"
+msgstr ""
+
+#: admin/options-init.php:1180
+msgid "Social Media"
+msgstr ""
+
+#: admin/options-init.php:1184
+msgid "<i class=\"fa fa-facebook\"></i> Facebook"
+msgstr ""
+
+#: admin/options-init.php:1185
+msgid "<em>Type your Facebook profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1192
+msgid "<i class=\"fa fa-twitter\"></i> Twitter"
+msgstr ""
+
+#: admin/options-init.php:1193
+msgid "<em>Type your Twitter profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1200
+msgid "<i class=\"fa fa-pinterest\"></i> Pinterest"
+msgstr ""
+
+#: admin/options-init.php:1201
+msgid "<em>Type your Pinterest profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1208
+msgid "<i class=\"fa fa-linkedin\"></i> LinkedIn"
+msgstr ""
+
+#: admin/options-init.php:1209
+msgid "<em>Type your LinkedIn profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1215
+msgid "<i class=\"fa fa-google-plus\"></i> Google+"
+msgstr ""
+
+#: admin/options-init.php:1216
+msgid "<em>Type your Google+ profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1222
+msgid "<i class=\"fa fa-rss\"></i> RSS"
+msgstr ""
+
+#: admin/options-init.php:1223
+msgid "<em>Type your RSS Feed URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1229
+msgid "<i class=\"fa fa-tumblr\"></i> Tumblr"
+msgstr ""
+
+#: admin/options-init.php:1230
+msgid "<em>Type your Tumblr URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1236
+msgid "<i class=\"fa fa-instagram\"></i> Instagram"
+msgstr ""
+
+#: admin/options-init.php:1237
+msgid "<em>Type your Instagram profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1244
+msgid "<i class=\"fa fa-youtube-play\"></i> Youtube"
+msgstr ""
+
+#: admin/options-init.php:1245
+msgid "<em>Type your Youtube profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1252
+msgid "<i class=\"fa fa-vimeo-square\"></i> Vimeo"
+msgstr ""
+
+#: admin/options-init.php:1253
+msgid "<em>Type your Vimeo profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1259
+msgid "<i class=\"fa fa-behance\"></i> Behance"
+msgstr ""
+
+#: admin/options-init.php:1260
+msgid "<em>Type your Behance profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1266
+msgid "<i class=\"fa fa-dribbble\"></i> Dribble"
+msgstr ""
+
+#: admin/options-init.php:1267
+msgid "<em>Type your Dribble profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1273
+msgid "<i class=\"fa fa-flickr\"></i> Flickr"
+msgstr ""
+
+#: admin/options-init.php:1274
+msgid "<em>Type your Flickr profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1280
+msgid "<i class=\"fa fa-git\"></i> Git"
+msgstr ""
+
+#: admin/options-init.php:1281
+msgid "<em>Type your Git profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1287
+msgid "<i class=\"fa fa-skype\"></i> Skype"
+msgstr ""
+
+#: admin/options-init.php:1288
+msgid "<em>Type your Skype profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1294
+msgid "<i class=\"fa fa-weibo\"></i> Weibo"
+msgstr ""
+
+#: admin/options-init.php:1295
+msgid "<em>Type your Weibo profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1301
+msgid "<i class=\"fa fa-foursquare\"></i> Foursquare"
+msgstr ""
+
+#: admin/options-init.php:1302
+msgid "<em>Type your Foursquare profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1308
+msgid "<i class=\"fa fa-soundcloud\"></i> Soundcloud"
+msgstr ""
+
+#: admin/options-init.php:1309
+msgid "<em>Type your Soundcloud profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1315
+msgid "<i class=\"fa fa-vk\"></i> VK"
+msgstr ""
+
+#: admin/options-init.php:1316
+msgid "<em>Type your VK profile URL here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1327
+msgid "Owl Carousel"
+msgstr ""
+
+#: admin/options-init.php:1331
+msgid "Slide Speed(ms)"
+msgstr ""
+
+#: admin/options-init.php:1332
+msgid "<em>Slide speed in milliseconds. Only use numeric. Default: 200.</em>"
+msgstr ""
+
+#: admin/options-init.php:1338
+msgid "Pagination Speed(ms)"
+msgstr ""
+
+#: admin/options-init.php:1339
+msgid ""
+"<em>Pagination speed in milliseconds. Only use numeric. Default: 800.</em>"
+msgstr ""
+
+#: admin/options-init.php:1344
+msgid "Rewind Speed(ms)"
+msgstr ""
+
+#: admin/options-init.php:1345
+msgid "<em>Rewind speed in milliseconds. Only use numeric. Default: 1000.</em>"
+msgstr ""
+
+#: admin/options-init.php:1351
+msgid "Autoplay"
+msgstr ""
+
+#: admin/options-init.php:1352
+msgid "<em>Enable/disable autoplay for all carousel.</em>"
+msgstr ""
+
+#: admin/options-init.php:1360
+msgid "Autoplay Speed(ms)"
+msgstr ""
+
+#: admin/options-init.php:1361
+msgid ""
+"<em>Autoplay speed in milliseconds. Only use numeric. Default: 5000.</em>"
+msgstr ""
+
+#: admin/options-init.php:1368
+msgid "Stop on Hover"
+msgstr ""
+
+#: admin/options-init.php:1369
+msgid "<em>Enable/disable stop carousel when mouse hover function.</em>"
+msgstr ""
+
+#: admin/options-init.php:1377
+msgid "Rewind Nav"
+msgstr ""
+
+#: admin/options-init.php:1378
+msgid ""
+"<em>Slide to first item. Use rewindSpeed to change animation speed.</em>"
+msgstr ""
+
+#: admin/options-init.php:1386
+msgid "Scroll per Page"
+msgstr ""
+
+#: admin/options-init.php:1387
+msgid ""
+"<em>Scroll per page not per item. This affect next/prev buttons and mouse/"
+"touch dragging.</em>"
+msgstr ""
+
+#: admin/options-init.php:1395
+msgid "Mouse Drag"
+msgstr ""
+
+#: admin/options-init.php:1396
+msgid "<em>Enable/disable mouse drag function.</em>"
+msgstr ""
+
+#: admin/options-init.php:1404
+msgid "Touch Drag"
+msgstr ""
+
+#: admin/options-init.php:1405
+msgid "<em>Enable/disable touch drag function.</em>"
+msgstr ""
+
+#: admin/options-init.php:1418
+msgid "Custom Code"
+msgstr ""
+
+#: admin/options-init.php:1422
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options-init.php:1423
+msgid "<em>Paste your custom CSS code here.</em>"
+msgstr ""
+
+#: admin/options-init.php:1430
+msgid "Custom JavaScript Code"
+msgstr ""
+
+#: admin/options-init.php:1431
+msgid ""
+"<em>Paste your custom JS code here. The code will be added to your site.</em>"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:393
+#: admin/tgm/class-tgm-plugin-activation.php:923
+#: admin/tgm/class-tgm-plugin-activation.php:2647
+#: admin/tgm/class-tgm-plugin-activation.php:3696
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:394
+#: admin/tgm/class-tgm-plugin-activation.php:3275
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:395
+#: admin/tgm/class-tgm-plugin-activation.php:3068
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:611
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:728
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1030
+#: admin/tgm/class-tgm-plugin-activation.php:1033
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1033
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2387
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2390
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2406
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2409
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2429
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2433
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2435
+msgid "Active"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2441
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2444
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2447
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2456
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2506
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2510
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2514
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2596
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2604
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2612
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2624
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2647
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2661
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2662
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2663
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2667
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2668
+msgid "Status"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2717
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2722
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2728
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2800
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2833
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2839
+msgid "Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2842
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2873
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2875
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2916
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2918
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3024
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3050
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3274
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3614
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3617
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3619
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3623
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3625
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3625
+#: admin/tgm/class-tgm-plugin-activation.php:3633
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3625
+#: admin/tgm/class-tgm-plugin-activation.php:3633
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3626
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3628
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3631
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3633
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3634
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3636
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:12
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:17
+msgid "Visual Composer"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:23
+msgid "VG Helper"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:29
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:34
+msgid "One Click Demo Import"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:39
+msgid "Projects by WooThemes"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:44
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:49
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:54
+msgid "Revolution Slider"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:60
+msgid "Contact Form 7"
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: dokan/store.php:40
+msgid "Store Category"
+msgstr ""
+
+#: dokan/store.php:43
+msgid "Store Location"
+msgstr ""
+
+#: dokan/store.php:47
+msgid "Contact Vendor"
+msgstr ""
+
+#: dokan/store.php:90
+msgid "No products were found of this vendor!"
+msgstr ""
+
+#: footer.php:243
+msgid "Loading..."
+msgstr ""
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:39
+msgid "Category Product Menu"
+msgstr ""
+
+#: functions.php:40
+msgid "Mobile Menu Category Product"
+msgstr ""
+
+#: functions.php:99
+msgid "VG calaco - Import Demo Data"
+msgstr ""
+
+#: functions.php:112
+msgid ""
+"After you import this demo data, you will have to setup the slider "
+"separately. Please read the document of the theme to know how to import "
+"slider."
+msgstr ""
+
+#: functions.php:206
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:208
+msgid "Widget on Sidebar Blog"
+msgstr ""
+
+#: functions.php:216
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: functions.php:218
+msgid "Widget on Sidebar WooCommerce Category Page"
+msgstr ""
+
+#: functions.php:226
+msgid "Woocommerce Sidebar 02"
+msgstr ""
+
+#: functions.php:228
+msgid "Widget on Right Sidebar WooCommerce Category Page"
+msgstr ""
+
+#: functions.php:235
+msgid "Top Bar 01"
+msgstr ""
+
+#: functions.php:238
+msgid "Widget on Left Top Bar"
+msgstr ""
+
+#: functions.php:246
+msgid "Top Bar 02"
+msgstr ""
+
+#: functions.php:249
+msgid "Widget on Right Top Bar"
+msgstr ""
+
+#: functions.php:257
+msgid "Top Bar 03"
+msgstr ""
+
+#: functions.php:260
+msgid "Widget on Top Bar Layout 3"
+msgstr ""
+
+#: functions.php:269
+msgid "Search Widget"
+msgstr ""
+
+#: functions.php:272
+msgid "Widget for Search"
+msgstr ""
+
+#: functions.php:280
+msgid "WooCommerce Header"
+msgstr ""
+
+#: functions.php:283
+msgid "Widget Mini Cart, Wishlist,.. of WooCommerce on Header "
+msgstr ""
+
+#: functions.php:290
+msgid "WooCommerce Header 2"
+msgstr ""
+
+#: functions.php:293
+msgid "Widget Mini Cart, Wishlist,.. of WooCommerce on Header Layout 2 "
+msgstr ""
+
+#: functions.php:300
+msgid "Header Static 01"
+msgstr ""
+
+#: functions.php:303
+msgid "Widget Header Layout 3 "
+msgstr ""
+
+#: functions.php:310
+msgid "Menu Categories Widget"
+msgstr ""
+
+#: functions.php:313
+msgid "Widget Menu Categories Layout 3 "
+msgstr ""
+
+#: functions.php:322
+msgid "Top Footer 01"
+msgstr ""
+
+#: functions.php:325
+msgid "Widget for Brand Logo"
+msgstr ""
+
+#: functions.php:332
+msgid "Footer 01"
+msgstr ""
+
+#: functions.php:335
+msgid "Widget on Footer Column 01"
+msgstr ""
+
+#: functions.php:343
+msgid "Footer 02"
+msgstr ""
+
+#: functions.php:346
+msgid "Widget on Footer Column 02"
+msgstr ""
+
+#: functions.php:354
+msgid "Footer 03"
+msgstr ""
+
+#: functions.php:357
+msgid "Widget on Footer Column 03"
+msgstr ""
+
+#: functions.php:365
+msgid "Footer 04"
+msgstr ""
+
+#: functions.php:368
+msgid "Widget on Footer Column 04"
+msgstr ""
+
+#: functions.php:376
+msgid "Footer 05"
+msgstr ""
+
+#: functions.php:379
+msgid "Widget on Footer Column 05"
+msgstr ""
+
+#: functions.php:387
+msgid "Footer 06"
+msgstr ""
+
+#: functions.php:390
+msgid "Widget on Footer Column 06"
+msgstr ""
+
+#: functions.php:398
+msgid "Footer 07"
+msgstr ""
+
+#: functions.php:401
+msgid "Widget on Footer Column 07"
+msgstr ""
+
+#: functions.php:408
+msgid "Footer 08"
+msgstr ""
+
+#: functions.php:411
+msgid "Widget on Footer Column 08"
+msgstr ""
+
+#: functions.php:419
+msgid "Footer 09"
+msgstr ""
+
+#: functions.php:422
+msgid "Widget on Footer Column 09"
+msgstr ""
+
+#: functions.php:429
+msgid "Footer 10"
+msgstr ""
+
+#: functions.php:432
+msgid "Widget on Footer Column 10"
+msgstr ""
+
+#: functions.php:441
+msgid "Bottom Footer 01"
+msgstr ""
+
+#: functions.php:444
+msgid "Widget on Bottom Footer Column 01"
+msgstr ""
+
+#: functions.php:452
+msgid "Bottom Footer 02"
+msgstr ""
+
+#: functions.php:455
+msgid "Widget on Bottom Footer Column 02"
+msgstr ""
+
+#: functions.php:1041 functions.php:1051
+msgid "Choose an option"
+msgstr ""
+
+#: includes/breadcrumb.php:89
+msgid "Articles posted by "
+msgstr ""
+
+#: includes/breadcrumb.php:92
+msgid "Error 404"
+msgstr ""
+
+#: includes/breadcrumb.php:97
+msgid "Page"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:78
+#, php-format
+msgid "%s(Invalid)"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:82
+#, php-format
+msgid "%s(Pending)"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:123
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:132
+msgid "URL"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:139
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:145
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:152
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:157
+msgid "CSS Classes(optional)"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:163
+msgid "Link Relationship(XFN)"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:169
+msgid "Description"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:171
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:179
+msgid "Background URL"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:189
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:202
+msgid "Remove"
+msgstr ""
+
+#: includes/custom-menu/edit_custom_walker.php:203
+msgid "Cancel"
+msgstr ""
+
+#: includes/template-tags.php:35
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: includes/template-tags.php:59
+msgid "Author"
+msgstr ""
+
+#: includes/template-tags.php:89
+msgid "Posted on"
+msgstr ""
+
+#: includes/template-tags.php:130 includes/template-tags.php:147
+msgid "Categories"
+msgstr ""
+
+#: includes/template-tags.php:144
+msgid "| "
+msgstr ""
+
+#: includes/template-tags.php:162
+msgid ", "
+msgstr ""
+
+#: includes/template-tags.php:165
+msgid "Tags"
+msgstr ""
+
+#: includes/template-tags.php:241
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: includes/template-tags.php:316 includes/template-tags.php:330
+#: includes/template-tags.php:336 includes/template-tags.php:340
+msgid "Search..."
+msgstr ""
+
+#: includes/testimonial/shortcode.php:53 includes/testimonial/shortcode.php:316
+msgid "VGW Woo Testimonial"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:54
+msgid "A widget that display Wordpress Posts in responsive carousel."
+msgstr ""
+
+#: includes/testimonial/shortcode.php:104
+#: includes/widgets/brand-carousel.php:78
+#: includes/widgets/post-carousel.php:153
+#: includes/widgets/product-carousel.php:172
+msgid "No item found. Please check your config(*_*)"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:138
+#: includes/widgets/brand-carousel.php:108
+#: includes/widgets/category-treeview.php:110
+#: includes/widgets/post-carousel.php:187
+#: includes/widgets/product-carousel.php:206
+#: includes/widgets/product-search.php:143
+msgid "New title"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:161
+#: includes/widgets/brand-carousel.php:128
+#: includes/widgets/category-treeview.php:123
+#: includes/widgets/post-carousel.php:211
+#: includes/widgets/product-carousel.php:232
+#: includes/widgets/product-search.php:148 includes/widgets/social-media.php:96
+msgid "Title:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:165
+#: includes/widgets/brand-carousel.php:132
+#: includes/widgets/category-treeview.php:127
+#: includes/widgets/post-carousel.php:215
+#: includes/widgets/product-carousel.php:236
+msgid "Unique ID:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:167
+#: includes/testimonial/shortcode.php:333
+msgid ""
+"Enter unique ID for this carousel. Eg: vgw-woo-testimonial, vgw-woo-"
+"testimonial-1, vgw-woo-testimonial-2 ..."
+msgstr ""
+
+#: includes/testimonial/shortcode.php:170
+#: includes/widgets/brand-carousel.php:137
+#: includes/widgets/category-treeview.php:132
+#: includes/widgets/post-carousel.php:220
+#: includes/widgets/product-carousel.php:241
+#: includes/widgets/product-search.php:152
+msgid "Class Suffix:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:174
+#: includes/testimonial/shortcode.php:348
+#: includes/widgets/post-carousel.php:224
+#: includes/widgets/post-carousel.php:404
+#: includes/widgets/product-carousel.php:245
+#: includes/widgets/product-carousel.php:443
+msgid "Carousel Type"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:176
+#: includes/testimonial/shortcode.php:351
+#: includes/widgets/post-carousel.php:226
+#: includes/widgets/post-carousel.php:407
+msgid "Latest Published"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:177
+#: includes/testimonial/shortcode.php:352
+#: includes/widgets/post-carousel.php:227
+#: includes/widgets/post-carousel.php:408
+msgid "Older Published"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:178
+#: includes/testimonial/shortcode.php:353
+#: includes/widgets/post-carousel.php:228
+#: includes/widgets/post-carousel.php:409
+msgid "Featured Posts"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:182
+#: includes/testimonial/shortcode.php:362
+#: includes/widgets/brand-carousel.php:141
+#: includes/widgets/brand-carousel.php:300
+#: includes/widgets/post-carousel.php:238
+#: includes/widgets/post-carousel.php:428
+#: includes/widgets/product-carousel.php:275
+#: includes/widgets/product-carousel.php:493
+msgid "Carousel Theme"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:188
+#: includes/widgets/post-carousel.php:244
+msgid "Total Posts:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:192
+#: includes/widgets/brand-carousel.php:147
+#: includes/widgets/post-carousel.php:248
+#: includes/widgets/product-carousel.php:285
+msgid "Items Visible:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:196
+#: includes/widgets/brand-carousel.php:151
+#: includes/widgets/post-carousel.php:252
+#: includes/widgets/product-carousel.php:289
+msgid "Row of Carousel:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:201
+#: includes/widgets/brand-carousel.php:156
+#: includes/widgets/post-carousel.php:257
+#: includes/widgets/product-carousel.php:294
+msgid "Disabled Responsive"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:204
+#: includes/widgets/brand-carousel.php:159
+#: includes/widgets/post-carousel.php:260
+#: includes/widgets/product-carousel.php:297
+msgid "Items Desktop:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:206
+#: includes/widgets/brand-carousel.php:161
+#: includes/widgets/post-carousel.php:262
+#: includes/widgets/product-carousel.php:299
+msgid ""
+"The format is [x,y] whereby x=browser width and y=number of slides displayed."
+msgstr ""
+
+#: includes/testimonial/shortcode.php:209
+#: includes/widgets/brand-carousel.php:164
+#: includes/widgets/post-carousel.php:265
+#: includes/widgets/product-carousel.php:302
+msgid "Items Desktop Small:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:213
+#: includes/widgets/brand-carousel.php:168
+#: includes/widgets/post-carousel.php:269
+#: includes/widgets/product-carousel.php:306
+msgid "Items Tablet:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:217
+#: includes/widgets/brand-carousel.php:172
+#: includes/widgets/post-carousel.php:273
+#: includes/widgets/product-carousel.php:310
+msgid "Items Tablet Small:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:221
+#: includes/widgets/brand-carousel.php:176
+#: includes/widgets/post-carousel.php:277
+#: includes/widgets/product-carousel.php:314
+msgid "Items Mobile:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:225
+#: includes/widgets/brand-carousel.php:180
+#: includes/widgets/post-carousel.php:281
+#: includes/widgets/product-carousel.php:318
+msgid "Items Custom:"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:227
+#: includes/widgets/brand-carousel.php:182
+#: includes/widgets/post-carousel.php:283
+#: includes/widgets/product-carousel.php:320
+msgid ""
+"Example: [[0, 2], [400, 4], [700, 6], [1000, 8], [1200, 10], [1600, 16]]"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:231
+#: includes/testimonial/shortcode.php:399
+#: includes/widgets/brand-carousel.php:186
+#: includes/widgets/brand-carousel.php:328
+#: includes/widgets/post-carousel.php:287
+#: includes/widgets/post-carousel.php:465
+#: includes/widgets/product-carousel.php:324
+#: includes/widgets/product-carousel.php:530
+msgid "Next & Preview Buttons"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:234
+#: includes/widgets/brand-carousel.php:189
+#: includes/widgets/post-carousel.php:290
+#: includes/widgets/product-carousel.php:327
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:317
+#: includes/widgets/post-carousel.php:373
+msgid "A responsive carousel for WordPress."
+msgstr ""
+
+#: includes/testimonial/shortcode.php:322
+#: includes/widgets/brand-carousel.php:274
+#: includes/widgets/category-treeview.php:264
+#: includes/widgets/post-carousel.php:378
+#: includes/widgets/product-carousel.php:417
+#: includes/widgets/product-search.php:230
+msgid "VinaGecko Widgets"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:329
+#: includes/widgets/brand-carousel.php:281
+#: includes/widgets/category-treeview.php:271
+#: includes/widgets/post-carousel.php:385
+#: includes/widgets/product-carousel.php:424
+msgid "Unique ID"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:339
+#: includes/widgets/brand-carousel.php:291
+#: includes/widgets/category-treeview.php:281
+#: includes/widgets/post-carousel.php:395
+#: includes/widgets/product-carousel.php:434
+#: includes/widgets/product-search.php:237
+msgid "Class Suffix"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:372
+#: includes/widgets/post-carousel.php:438
+msgid "Total Posts"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:381
+#: includes/widgets/brand-carousel.php:310
+#: includes/widgets/post-carousel.php:447
+#: includes/widgets/product-carousel.php:512
+msgid "Items Visible"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:390
+#: includes/widgets/brand-carousel.php:319
+#: includes/widgets/post-carousel.php:456
+#: includes/widgets/product-carousel.php:521
+msgid "Row of Carousel"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:408
+#: includes/widgets/brand-carousel.php:337
+#: includes/widgets/post-carousel.php:474
+#: includes/widgets/product-carousel.php:539
+msgid "Pagination"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:416
+#: includes/testimonial/shortcode.php:420
+#: includes/testimonial/shortcode.php:429
+#: includes/testimonial/shortcode.php:438
+#: includes/testimonial/shortcode.php:447
+#: includes/testimonial/shortcode.php:456
+#: includes/testimonial/shortcode.php:465
+#: includes/testimonial/shortcode.php:474
+#: includes/widgets/brand-carousel.php:345
+#: includes/widgets/brand-carousel.php:349
+#: includes/widgets/brand-carousel.php:358
+#: includes/widgets/brand-carousel.php:367
+#: includes/widgets/brand-carousel.php:376
+#: includes/widgets/brand-carousel.php:385
+#: includes/widgets/brand-carousel.php:394
+#: includes/widgets/brand-carousel.php:403
+#: includes/widgets/post-carousel.php:482
+#: includes/widgets/post-carousel.php:486
+#: includes/widgets/post-carousel.php:495
+#: includes/widgets/post-carousel.php:504
+#: includes/widgets/post-carousel.php:513
+#: includes/widgets/post-carousel.php:522
+#: includes/widgets/post-carousel.php:531
+#: includes/widgets/post-carousel.php:540
+#: includes/widgets/product-carousel.php:547
+#: includes/widgets/product-carousel.php:551
+#: includes/widgets/product-carousel.php:560
+#: includes/widgets/product-carousel.php:569
+#: includes/widgets/product-carousel.php:578
+#: includes/widgets/product-carousel.php:587
+#: includes/widgets/product-carousel.php:596
+#: includes/widgets/product-carousel.php:605
+msgid "Responsive"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:419
+#: includes/widgets/brand-carousel.php:348
+#: includes/widgets/post-carousel.php:485
+#: includes/widgets/product-carousel.php:550
+msgid ""
+"You can use Owl Carousel on desktop-only websites too! Just check this "
+"option to disable resposive capabilities"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:425
+#: includes/widgets/brand-carousel.php:354
+#: includes/widgets/post-carousel.php:491
+#: includes/widgets/product-carousel.php:556
+msgid "Items Desktop"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:428
+msgid ""
+"This allows you to preset the number of slides visible with a particular "
+"browser width. The format is [x,y] whereby x=browser width and y=number of "
+"slides displayed. For example [1199,1] means that if(window<=1199){ show 1 "
+"slides per page}"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:434
+#: includes/widgets/brand-carousel.php:363
+#: includes/widgets/post-carousel.php:500
+#: includes/widgets/product-carousel.php:565
+msgid "Items Desktop Small"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:437
+#: includes/testimonial/shortcode.php:446
+#: includes/testimonial/shortcode.php:464
+#: includes/widgets/brand-carousel.php:366
+#: includes/widgets/brand-carousel.php:375
+#: includes/widgets/brand-carousel.php:393
+#: includes/widgets/post-carousel.php:503
+#: includes/widgets/post-carousel.php:512
+#: includes/widgets/post-carousel.php:530
+#: includes/widgets/product-carousel.php:568
+#: includes/widgets/product-carousel.php:577
+#: includes/widgets/product-carousel.php:595
+msgid "As above"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:443
+#: includes/widgets/brand-carousel.php:372
+#: includes/widgets/post-carousel.php:509
+#: includes/widgets/product-carousel.php:574
+msgid "Items Tablet"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:452
+#: includes/widgets/brand-carousel.php:381
+#: includes/widgets/post-carousel.php:518
+#: includes/widgets/product-carousel.php:583
+msgid "Items Tablet Small"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:455
+#: includes/widgets/brand-carousel.php:384
+#: includes/widgets/post-carousel.php:521
+#: includes/widgets/product-carousel.php:586
+msgid "As above. Default value is disabled."
+msgstr ""
+
+#: includes/testimonial/shortcode.php:461
+#: includes/widgets/brand-carousel.php:390
+#: includes/widgets/post-carousel.php:527
+#: includes/widgets/product-carousel.php:592
+msgid "Items Mobile"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:470
+#: includes/widgets/brand-carousel.php:399
+#: includes/widgets/post-carousel.php:536
+#: includes/widgets/product-carousel.php:601
+msgid "Items Custom"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:473
+#: includes/widgets/brand-carousel.php:402
+#: includes/widgets/post-carousel.php:539
+#: includes/widgets/product-carousel.php:604
+msgid ""
+"This allow you to add custom variations of items depending from the width If "
+"this option is set, itemsDeskop, itemsDesktopSmall, itemsTablet, itemsMobile "
+"etc. are disabled For better preview, order the arrays by screen size, but "
+"it's not mandatory Don't forget to include the lowest available screen size, "
+"otherwise it will take the default one for screens lower than lowest "
+"available.<br>Example:<br>[[0, 2], [400, 4], [700, 6], [1000, 8], [1200, "
+"10], [1600, 16]]"
+msgstr ""
+
+#: includes/testimonial/shortcode.php:487
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong>Visual Composer</strong> plugin to be "
+"installed and activated on your site."
+msgstr ""
+
+#: includes/widgets/brand-carousel.php:54
+#: includes/widgets/brand-carousel.php:268
+msgid "VGW Brand Logos Carousel"
+msgstr ""
+
+#: includes/widgets/brand-carousel.php:55
+msgid "A widget that display Brand Logos in responsive carousel."
+msgstr ""
+
+#: includes/widgets/brand-carousel.php:134
+#: includes/widgets/brand-carousel.php:285
+msgid ""
+"Enter unique ID for this carousel. Eg: vgw-brand-carousel, vgw-brand-"
+"carousel-1, vgw-brand-carousel-2 ..."
+msgstr ""
+
+#: includes/widgets/brand-carousel.php:269
+msgid "Brand Logos Carousel."
+msgstr ""
+
+#: includes/widgets/brand-carousel.php:357
+#: includes/widgets/post-carousel.php:494
+#: includes/widgets/product-carousel.php:559
+msgid ""
+"This allows you to preset the number of slides visible with a particular "
+"browser width. The format is [x,y] whereby x=browser width and y=number of "
+"slides displayed. For example [1199,4] means that if(window<=1199){ show 4 "
+"slides per page}"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:54
+#: includes/widgets/category-treeview.php:258
+msgid "VGW Category Treeview"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:55
+msgid "A widget that display category in Treeview menu."
+msgstr ""
+
+#: includes/widgets/category-treeview.php:129
+msgid ""
+"Enter unique ID for this treeview menu. Eg: vgw-category-treeview, vgw-"
+"category-treeview-1, vgw-category-treeview-2 ..."
+msgstr ""
+
+#: includes/widgets/category-treeview.php:136
+#: includes/widgets/category-treeview.php:290
+msgid "Treeview Theme"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:142
+msgid "Treeview Source"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:144
+msgid "Post Catogory"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:145
+#: includes/widgets/category-treeview.php:304
+msgid "WooCommerce Category"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:147
+#: includes/widgets/category-treeview.php:306
+msgid "Support 2 sources: Post Category and WooCommerce Category."
+msgstr ""
+
+#: includes/widgets/category-treeview.php:150
+msgid "Items Counter"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:157
+#: includes/widgets/category-treeview.php:325
+msgid "Treeview Control"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:164
+#: includes/widgets/category-treeview.php:337
+msgid "Animated Speed"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:166
+#: includes/widgets/category-treeview.php:340
+msgid "Slow"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:167
+#: includes/widgets/category-treeview.php:341
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:168
+#: includes/widgets/category-treeview.php:342
+msgid "Fast"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:172
+#: includes/widgets/category-treeview.php:350
+msgid "Collapsed"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:177
+#: includes/widgets/category-treeview.php:356
+msgid "Sets whether all nodes should be collapsed by default."
+msgstr ""
+
+#: includes/widgets/category-treeview.php:180
+#: includes/widgets/category-treeview.php:362
+msgid "Unique"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:185
+#: includes/widgets/category-treeview.php:368
+msgid ""
+"Sets whether only one tree node can be open at any time, collapsing any "
+"previous open nodes."
+msgstr ""
+
+#: includes/widgets/category-treeview.php:259
+msgid "Display category in Treeview menu."
+msgstr ""
+
+#: includes/widgets/category-treeview.php:275
+msgid ""
+"Enter unique ID for this Treeview menu. Eg: vgw-category-treeview, vgw-"
+"category-treeview-1, vgw-category-treeview-2 ..."
+msgstr ""
+
+#: includes/widgets/category-treeview.php:300
+msgid "Treeview Type"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:303
+msgid "Post Category"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:313
+msgid "Item Counter"
+msgstr ""
+
+#: includes/widgets/category-treeview.php:331
+msgid ""
+"Specifies the HTML element(s) on the page that will contain links to "
+"collapse, expand, and toggle all nodes within the tree, in that order."
+msgstr ""
+
+#: includes/widgets/post-carousel.php:90 includes/widgets/post-carousel.php:372
+msgid "VGW Post Carousel"
+msgstr ""
+
+#: includes/widgets/post-carousel.php:91
+msgid "A widget that display WordPress Posts in responsive carousel."
+msgstr ""
+
+#: includes/widgets/post-carousel.php:217
+#: includes/widgets/post-carousel.php:389
+msgid ""
+"Enter unique ID for this carousel. Eg: vgw-post-carousel, vgw-post-"
+"carousel-1, vgw-post-carousel-2 ..."
+msgstr ""
+
+#: includes/widgets/post-carousel.php:232
+#: includes/widgets/product-carousel.php:253
+msgid "Filter by Categories(No select = All)"
+msgstr ""
+
+#: includes/widgets/post-carousel.php:418
+#: includes/widgets/product-carousel.php:457
+msgid "Filter by Categories(No select = No Filter)"
+msgstr ""
+
+#: includes/widgets/post-carousel.php:422
+#: includes/widgets/product-carousel.php:461
+msgid "Filter by Categories"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:92
+msgid "VGW Product Carousel"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:93
+msgid "A widget that display products of WooCommerce in responsive carousel."
+msgstr ""
+
+#: includes/widgets/product-carousel.php:238
+#: includes/widgets/product-carousel.php:428
+msgid ""
+"Enter unique ID for this carousel. Eg: vgw-product-carousel, vgw-product-"
+"carousel-1, vgw-product-carousel-2 ..."
+msgstr ""
+
+#: includes/widgets/product-carousel.php:247
+#: includes/widgets/product-carousel.php:446
+msgid "All Products"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:248
+#: includes/widgets/product-carousel.php:447
+msgid "Featured Products"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:249
+#: includes/widgets/product-carousel.php:448
+msgid "On-sale Products"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:259
+msgid "Order by:"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:261
+#: includes/widgets/product-carousel.php:470
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:262
+#: includes/widgets/product-carousel.php:471 woocommerce/cart/cart.php:28
+#: woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:263
+#: includes/widgets/product-carousel.php:472
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:264
+#: includes/widgets/product-carousel.php:473
+msgid "Sales"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:268
+msgid "Order:"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:270
+#: includes/widgets/product-carousel.php:484
+msgid "DESC"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:271
+#: includes/widgets/product-carousel.php:485
+msgid "ASC"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:281
+msgid "Total Products:"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:411
+msgid "VGW Carousel"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:412
+msgid "Product carousel for WooCommerce."
+msgstr ""
+
+#: includes/widgets/product-carousel.php:467
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:481
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/product-carousel.php:503
+msgid "Total Products"
+msgstr ""
+
+#: includes/widgets/product-search.php:95
+msgid "VGW Product Search"
+msgstr ""
+
+#: includes/widgets/product-search.php:96
+msgid ""
+"A widget that display search form for WooCommerce with dropdown of product "
+"categories."
+msgstr ""
+
+#: includes/widgets/product-search.php:156
+#: includes/widgets/product-search.php:247
+msgid "Search Theme"
+msgstr ""
+
+#: includes/widgets/product-search.php:224
+msgid "VGW Search"
+msgstr ""
+
+#: includes/widgets/product-search.php:225
+msgid "A search form for WooCommerce."
+msgstr ""
+
+#: includes/widgets/social-media.php:28
+msgid "VGW Social Media"
+msgstr ""
+
+#: includes/widgets/social-media.php:29
+msgid "A widget that displays Social Media Profiles"
+msgstr ""
+
+#: includes/widgets/social-media.php:91
+msgid "Get Connected"
+msgstr ""
+
+#: includes/widgets/social-media.php:94
+msgid "You can manager Social Media link in VG Calaco >> Social Media."
+msgstr ""
+
+#: includes/woocommerce/wooajax.php:10
+msgid "Product is added to cart"
+msgstr ""
+
+#: includes/woocommerce/wooajax.php:21 woocommerce/cart/mini-cart.php:91
+msgid "View Cart"
+msgstr ""
+
+#: index.php:82 woocommerce/woocommerce-functions.php:24
+msgid "Home"
+msgstr ""
+
+#: index.php:109
+msgid "Previous"
+msgstr ""
+
+#: index.php:110 woocommerce/woocommerce-functions.php:267
+#: woocommerce/woocommerce-functions.php:359
+msgid "Next"
+msgstr ""
+
+#: post-carousel/default.php:103
+msgid "Read More &raquo;"
+msgstr ""
+
+#: post-carousel/theme.php:97 post-carousel/theme.php:99
+msgid "0"
+msgstr ""
+
+#: post-carousel/theme.php:101
+msgid "1"
+msgstr ""
+
+#: post-carousel/theme.php:128
+msgid "By: "
+msgstr ""
+
+#: post-carousel/theme.php:142
+msgid "Continue Reading"
+msgstr ""
+
+#: search.php:94
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: template-parts/content-page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:87
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content.php:104
+msgid "Read more"
+msgstr ""
+
+#: template-parts/layout-1-header.php:115 template-parts/layout-2-header.php:96
+#: template-parts/layout-3-header.php:91 template-parts/layout-4-header.php:128
+msgid "Menu"
+msgstr ""
+
+#: treeview-menu/default.php:74
+msgid "Collapse All"
+msgstr ""
+
+#: treeview-menu/default.php:75
+msgid "Expand All"
+msgstr ""
+
+#: treeview-menu/default.php:76
+msgid "Toggle All"
+msgstr ""
+
+#: woocommerce/archive-product.php:141
+msgid "Grid"
+msgstr ""
+
+#: woocommerce/archive-product.php:142
+msgid "List"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart.php:30
+#: woocommerce/cart/mini-cart.php:79 woocommerce/cart/mini-cart.php:85
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart.php:107
+#: woocommerce/checkout/review-order.php:18
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:26 woocommerce/cart/cart.php:58
+#: woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Descriptions"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:90
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "cart total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon Apply"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:149
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/cart.php:159
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:29
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:31
+msgid "Cart /"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:61
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:78
+msgid "You have no items in your shopping cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:90
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:43
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: woocommerce/class-wc-widget-cart.php:29
+#: woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgid "Qty : "
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:37
+msgid "01. login to system"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "If you signed up. Enter your Email and password provided here."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+msgid "Forgot your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+msgid "Reset here."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:73
+msgid "02. create an account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:74
+msgid "Fill in blanks to sign in. You can edit the details later.."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/product-carousel/theme-timer.php:88
+#: woocommerce/product-carousel/theme.php:88
+#: woocommerce/single-product/sale-flash.php:30
+#: woocommerce/woocommerce-functions.php:93
+msgid "Hot"
+msgstr ""
+
+#: woocommerce/product-carousel/theme-timer.php:89
+#: woocommerce/product-carousel/theme.php:89
+#: woocommerce/single-product/sale-flash.php:34
+#: woocommerce/woocommerce-functions.php:94
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/product-search/default.php:12
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-search/default.php:16
+msgid "Select Category"
+msgstr ""
+
+#: woocommerce/product-search/default.php:21
+msgid "Search for products"
+msgstr ""
+
+#: woocommerce/product-search/default.php:24
+msgid "Search"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:31
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/woocommerce-functions.php:54
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/woocommerce-functions.php:63
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/woocommerce-functions.php:65
+msgid " review(s)"
+msgstr ""
+
+#: woocommerce/woocommerce-functions.php:267
+#: woocommerce/woocommerce-functions.php:359
+msgid "Prev"
+msgstr ""
+
+#: woocommerce/woocommerce-functions.php:304
+msgid "Availability:"
+msgstr ""
+
+#: woocommerce/woocommerce-functions.php:306
+msgid "In stock"
+msgstr ""
+
+#: woocommerce/woocommerce-functions.php:308
+msgid "Out of stock"
+msgstr ""

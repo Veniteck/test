@@ -1,0 +1,26 @@
+/******************************************************************************/
+/***************************** CSS FOR ADMIN **********************************/
+/******************************************************************************/
+#redux_dashboard_widget { display: none; }
+.redux-dev-mode-notice-container.redux-dev-qtip { display: none !important; }
+#redux_dashboard_widget, .redux-notice {
+	display:none !important;
+}
+
+#vg_calaco_options-default_layout ul:before,
+#vg_calaco_options-default_layout ul:after{
+	content:'';
+	display:table;
+}
+#vg_calaco_options-default_layout ul:after{
+	clear:both;
+}
+#vg_calaco_options-default_layout ul li{
+	display:block;
+	float:left;
+	width:20%;
+	padding:7px;
+}
+.redux-container{
+ overflow:visible !important;
+}
